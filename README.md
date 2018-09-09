@@ -1,4 +1,4 @@
-# College_Admit_Predicion
+# College Admission Predicion
 <h2>A Linear Regression model which will predict the probability of a student getting admitted into an University</h2>
 
 This project is meant for calculating the chances of a student getting admitted to an University based on the following parameters
